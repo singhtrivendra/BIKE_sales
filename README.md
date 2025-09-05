@@ -13,9 +13,3 @@
 
 The dashboard connects directly to the Gold Layer tables (Star/Snowflake schema) reporting and analysis.
 
-## Tools and Technologies
-
--   **Database**: MySQL
--   **Language**: SQL, Python
--   **Tools**: Jupyter Notebook, Git, Power BI
--   **Libraries**: pandas, matplotlib, seaborn
