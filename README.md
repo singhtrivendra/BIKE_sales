@@ -1,8 +1,7 @@
 
 
-## Power BI Dashboard (Consume Layer)
+## Power BI Dashboard 
 
-The final consumption layer of this data warehouse is a comprehensive Power BI dashboard that provides business insights and visualizations:
 
 ![Power BI Dashboard](powerbi_exports/Dashboard.jpg)
 
